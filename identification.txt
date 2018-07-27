@@ -1,0 +1,3 @@
+[Accountant = name=Hossein, numberId=89198169, workExperiences=2, lastDegree = master.		, 
+WebProgrammer = name=javad, numberId=56239874, workExperiences=1, jobPositionsnap, languageProgramming = c++.		, 
+PhoneProgrammer = name=hadi, numberId=147852, workExperiences=3, jobPositionboom, numberReleasedApp = 1.		]
