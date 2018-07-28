@@ -1,1 +1,2 @@
-[Accountant = name=hossein, numberId=23145, workExperiences=2, lastDegree = ms.		]
+[
+WebProgrammer : name=j, numberId=1, workExperiences=1, jobPosition1, languageProgramming = 1.		]
